@@ -105,3 +105,5 @@ firewall-cmd --zone=public --add-port=21/tcp --permanent
 -----------------
 
 ## ubuntu
+
+[Linux 常用知识](tech/linux.md "come on")
